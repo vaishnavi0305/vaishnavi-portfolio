@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vaishnavi-portfolio/static/css/main.317e60a5.css",
-    "main.js": "/vaishnavi-portfolio/static/js/main.7d4dd974.js",
+    "main.css": "/vaishnavi-portfolio/static/css/main.b844e7c4.css",
+    "main.js": "/vaishnavi-portfolio/static/js/main.4018e4aa.js",
     "static/js/453.5325aa05.chunk.js": "/vaishnavi-portfolio/static/js/453.5325aa05.chunk.js",
     "static/media/WhatsApp Image 2025-06-14 at 3.30.05 PM.jpeg": "/vaishnavi-portfolio/static/media/WhatsApp Image 2025-06-14 at 3.30.05 PM.78d74e45b9725e048dc8.jpeg",
     "index.html": "/vaishnavi-portfolio/index.html",
-    "main.317e60a5.css.map": "/vaishnavi-portfolio/static/css/main.317e60a5.css.map",
-    "main.7d4dd974.js.map": "/vaishnavi-portfolio/static/js/main.7d4dd974.js.map",
+    "main.b844e7c4.css.map": "/vaishnavi-portfolio/static/css/main.b844e7c4.css.map",
+    "main.4018e4aa.js.map": "/vaishnavi-portfolio/static/js/main.4018e4aa.js.map",
     "453.5325aa05.chunk.js.map": "/vaishnavi-portfolio/static/js/453.5325aa05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.317e60a5.css",
-    "static/js/main.7d4dd974.js"
+    "static/css/main.b844e7c4.css",
+    "static/js/main.4018e4aa.js"
   ]
 }
