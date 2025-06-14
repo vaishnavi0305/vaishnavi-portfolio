@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vaishnavi-portfolio/static/css/main.cbabd5fa.css",
-    "main.js": "/vaishnavi-portfolio/static/js/main.8036e7cf.js",
+    "main.css": "/vaishnavi-portfolio/static/css/main.72df5ecf.css",
+    "main.js": "/vaishnavi-portfolio/static/js/main.f8575175.js",
     "static/js/453.5325aa05.chunk.js": "/vaishnavi-portfolio/static/js/453.5325aa05.chunk.js",
     "static/media/VaishnaviBuradkarPassportPhoto.jpg": "/vaishnavi-portfolio/static/media/VaishnaviBuradkarPassportPhoto.f720b12bb415938ae293.jpg",
     "index.html": "/vaishnavi-portfolio/index.html",
-    "main.cbabd5fa.css.map": "/vaishnavi-portfolio/static/css/main.cbabd5fa.css.map",
-    "main.8036e7cf.js.map": "/vaishnavi-portfolio/static/js/main.8036e7cf.js.map",
+    "main.72df5ecf.css.map": "/vaishnavi-portfolio/static/css/main.72df5ecf.css.map",
+    "main.f8575175.js.map": "/vaishnavi-portfolio/static/js/main.f8575175.js.map",
     "453.5325aa05.chunk.js.map": "/vaishnavi-portfolio/static/js/453.5325aa05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbabd5fa.css",
-    "static/js/main.8036e7cf.js"
+    "static/css/main.72df5ecf.css",
+    "static/js/main.f8575175.js"
   ]
 }
