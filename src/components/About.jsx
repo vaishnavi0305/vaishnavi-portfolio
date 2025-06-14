@@ -15,7 +15,7 @@ const About = () => {
           I’m passionate about building scalable, secure, and highly available infrastructure.
         </p>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-6 text-left text-sm">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 text-left text-sm">
           <div>
             <h4 className="font-semibold mb-2 text-blue-600">Cloud</h4>
             <ul className="list-disc ml-5">

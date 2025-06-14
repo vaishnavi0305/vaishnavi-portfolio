@@ -23,7 +23,7 @@ const Contact = () => {
           action="mailto:vaishnaviburadkar@gmail.com"
           method="POST"
           encType="text/plain"
-          className="grid gap-4 max-w-md mx-auto"
+          className="grid gap-4 w-full max-w-md mx-auto px-4 sm:px-0"
         >
           <input type="text" name="Name" placeholder="Your Name" className="p-2 border rounded" required />
           <input type="email" name="Email" placeholder="Your Email" className="p-2 border rounded" required />

@@ -14,7 +14,7 @@ const Blog = () => {
 
   useEffect(() => {
     if (selectedBlog) {
-      fetch(`/blogs/${selectedBlog}`)
+      fetch(`${process.env.PUBLIC_URL}/blogs/${selectedBlog}`)
         .then((res) => res.text())
         .then((text) => setMarkdown(text));
     }
@@ -32,7 +32,7 @@ const Blog = () => {
             {blogs.map((blog, index) => (
               <div
                 key={index}
-                className="bg-white p-6 shadow-md rounded cursor-pointer hover:bg-blue-50"
+                className="bg-white p-6 shadow-md rounded cursor-pointer hover:bg-blue-50 text-left"
                 onClick={() => setSelectedBlog(blog.file)}
               >
                 <h3 className="text-xl font-semibold text-blue-600 mb-2">

@@ -9,7 +9,7 @@ const Portfolio = () => {
           Portfolio
         </h2>
 
-        <div className="grid gap-8 md:grid-cols-2">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           {projects.map((project, index) => (
             <div key={index} className="bg-white shadow-lg rounded-lg p-6 hover:shadow-xl transition">
               <h3 className="text-xl font-semibold text-blue-600 mb-2">{project.title}</h3>
