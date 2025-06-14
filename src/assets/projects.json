@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Deployment of Node.js Application",
+    "description": "Deployed a Node.js app on AWS EC2 with auto-scaling setup.",
+    "tech": "AWS EC2, Auto Scaling, Linux, NGINX"
+  },
+  {
+    "title": "Kubernetes Cluster Setup and Microservices Deployment",
+    "description": "Deployed a production-ready Kubernetes cluster using KOPS on AWS. Managed microservices with Helm, ConfigMaps, and Secrets.",
+    "tech": "Kubernetes, Helm, AWS, Docker"
+  },
+  {
+    "title": "Infrastructure as Code with Terraform",
+    "description": "Automated AWS infrastructure setup with reusable Terraform modules for VPC, EC2, and RDS.",
+    "tech": "Terraform, AWS, DevOps"
+  },
+  {
+    "title": "Monitoring with Prometheus and Grafana",
+    "description": "Set up Prometheus and Grafana dashboards for Kubernetes monitoring. Implemented alerting using Alertmanager.",
+    "tech": "Prometheus, Grafana, K8s, Alertmanager"
+  },
+  {
+    "title": "Python Automation for Cloud Resource Management",
+    "description": "Developed Python scripts using boto3 to automate EC2, S3, and IAM management. Improved operational efficiency.",
+    "tech": "Python, Boto3, AWS, Linux CRON"
+  }
+]
